@@ -1,1 +1,0 @@
-prind("Some string")
