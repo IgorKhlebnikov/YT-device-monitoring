@@ -1,0 +1,7 @@
+###Pithon tamplate
+# Byte-complied / optimized / DLL files
+_pycashe_/
+*.py[cod]
+docker-compose.yaml
+log/
+resources/product.json
